@@ -15,7 +15,7 @@
 
 ## :bookmark: Sobre
 
-Projeto de clone simples da Landing-page da Netflix, a qual tem como objetivo servir como forma de aprendizado e aperfeiçoamento do uso de HTML5, CSS, Javascript e um pouco de JQuery, através do curso "Recriando a Interface do Netflix", no bootcamp "everis FullStack Developer" na [Digital Innovation One](https://web.digitalinnovation.one/), ministrado pelo [Felipe Aguiar](https://github.com/felipeAguiarCode).
+Projeto de clone simples da Home-page da Netflix, a qual tem como objetivo servir como forma de aprendizado e aperfeiçoamento do uso de HTML5, CSS, Javascript e um pouco de JQuery, através do curso "Recriando a Interface do Netflix", no bootcamp "everis FullStack Developer" na [Digital Innovation One](https://web.digitalinnovation.one/), ministrado pelo [Felipe Aguiar](https://github.com/felipeAguiarCode).
 
 ## :rocket: Tecnologias
 
