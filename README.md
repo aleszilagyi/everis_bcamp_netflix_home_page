@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ErickNathan/ProjectHappy-NLW3?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ErickNathan/ProjectHappy-NLW3?style=flat-square">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/aleszilagyi/everis_bcamp_netflix_home_page?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/aleszilagyi/everis_bcamp_netflix_home_page?style=flat-square">
 </p>
 
 <p align="center">
