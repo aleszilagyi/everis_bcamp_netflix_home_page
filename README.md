@@ -51,6 +51,7 @@ Simple clone project of the Netflix Home-page, as a way of learning and improvin
 
 ## :rocket: Stack
 
-- [HTML básico](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS básico](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Javascript básico](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [JQuery](https://api.jquery.com/)
