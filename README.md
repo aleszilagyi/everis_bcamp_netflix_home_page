@@ -4,7 +4,7 @@
  </p>
 <h6 align="right">#pt-BR Readme</h6>
 <h1 align="center">
-  <br># Clone da Home Page da Netflix<br/>
+  <br>#Clone da Home Page da Netflix<br/>
   #HTML|#CSS|#Javascript
 </h1>
 
