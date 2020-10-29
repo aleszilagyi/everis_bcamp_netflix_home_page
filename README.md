@@ -47,7 +47,7 @@ Projeto de clone simples da Home-page da Netflix, a qual tem como objetivo servi
 
 ## :bookmark: About
 
-Simple clone project of the Netflix Home-page, as a way of learning and improving the use of HTML5, CSS, Javascript and a little bit of JQuery, through the course "Recreating the Netflix Interface", in the bootcamp "everis FullStack Developer" at [Digital Innovation One] (https://web.digitalinnovation.one/), taught by [Felipe Aguiar] (https://github.com/felipeAguiarCode).
+Simple clone project of the Netflix Home-page, as a way of learning and improving the use of HTML5, CSS, Javascript and a little bit of JQuery, through the course "Recreating the Netflix Interface", in the bootcamp "everis FullStack Developer" at [Digital Innovation One](https://web.digitalinnovation.one/), taught by [Felipe Aguiar](https://github.com/felipeAguiarCode).
 
 ## :rocket: Stack
 
